@@ -1,0 +1,16 @@
+# Abhängigkeiten (Paketmanager)
+node_modules/
+vendor/
+
+# Log-Dateien
+*.log
+logs/
+
+# Umgebungsvariablen
+.env
+
+# Temporäre / generierte Dateien
+dist/
+build/
+*.tmp
+.DS_Store
